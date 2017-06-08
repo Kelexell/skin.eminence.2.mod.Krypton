@@ -2052,7 +2052,7 @@ msgstr "Réduit"
 
 msgctxt "#31761"
 msgid "Allows widget reloading."
-msgstr "Permet d'autoriser le rechargement des widgets."
+msgstr "Autoriser le rechargement des widgets."
 
 msgctxt "#31762"
 msgid "Use compact Video OSD"
